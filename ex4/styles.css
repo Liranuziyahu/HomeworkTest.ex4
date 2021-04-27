@@ -1,0 +1,150 @@
+header
+{
+    background-color:SteelBlue;
+    text-align: center;
+    padding:25px;
+    border-radius: 20%;
+}
+nav{
+    font-size: 20px;
+}
+h1{
+    color: white;
+    text-align: left;
+    margin: 0px ;
+    margin-bottom: 15px ;
+    font-size:50px;
+
+}
+
+.style_about{         
+    text-align: left;
+}
+.dev{
+    text-align: left;
+    margin: 0px;
+    font-size: 12px;
+    color: whitesmoke;
+    margin-bottom: 10px;
+}
+.typedev{
+display: inline;
+text-align: left;
+background: CornflowerBlue;
+color: black;
+font-family: fantasy;
+font-size: 20px;
+margin-right: 5px;
+}
+
+.contect_way{
+    font-size: 14px;
+    margin-top: 0px;
+       
+}
+/* רווחתי בין השורות של היצירת קשר */
+a.contect_way{  
+    line-height: 10px;
+}
+.mypic{
+    display: inline-block;
+    position: absolute; right: 70px;
+    position: absolute; top: 80px;
+    width: 13%;
+    height: 30%;
+    border-radius: 49%;
+}
+#about_text{
+    text-align: center;
+    font-size: 25px;
+}
+.date_p{
+    line-height: 0px;
+    font-size: 13px;
+
+}
+.project_text{
+    text-align: left;
+    vertical-align:text-bottom;
+    padding-top: 50px;
+    display: inline-block;
+    vertical-align:top;
+    font-size: 16px;
+    width: 500px;
+}
+
+.project_pic{
+    display: inline-block;
+    width: 20%;
+    height: 250px;
+    border-radius: 10%;
+    margin-left: 120px;
+}
+.project_text2{
+    text-align: left;
+    vertical-align:text-bottom;
+    display: inline-block;
+    vertical-align:top;
+    font-size: 16px;
+    padding-top: 50px;
+    width: 500px;
+}
+.containerfooter{
+    
+    background:CornflowerBlue;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-align: center;
+    line-height: 0.5px;
+    
+}
+.textfooter{
+    border-style:none;
+    background: CornflowerBlue;
+    border-bottom-style: double;
+    border-color: black;
+    
+}
+
+textarea::-webkit-input-placeholder {/*סטיילינג של סקסט הריאה*/
+    text-indent: 10px;
+    font-size: 15px;
+    font-family:sans-serif;
+    font-weight: bold;
+    color: black;
+    
+}
+::-webkit-input-placeholder { /*סטיילינג של הרישום*/
+    color:black;
+    font-family:sans-serif ;
+    font-weight: bold;
+    
+    
+  }
+  .button1{
+      background: white;
+      font-size: 32px;
+      padding: 8px 24px;
+      border-radius: 8px;
+      border: 2px solid black;
+      font-family: sans-serif;
+      font-weight: bold;
+  }
+.textarea1{
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 10px;
+}
+.footerstyle{
+    text-align: center;
+    font-size: 14px;
+    font-family: sans-serif;
+
+}
+a:visited {
+    color:white;
+  }
+  a:hover{
+      color:blue;
+  }
+  
